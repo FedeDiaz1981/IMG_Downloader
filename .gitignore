@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local sessions and credentials
+.env
+.env.*
+!.env.example
+.pintofruta-edge/
+
+# Generated operational data
+uploads/
+downloads/
+jobs/
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
